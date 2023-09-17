@@ -41,6 +41,7 @@
 3. Deploying PWA on the Web
 4. Deploying PWA on the Play Store
 5. Deploying PWA on the Microsoft Store
+6. Git and Github tutorial
 
 ## Perks
 
@@ -56,3 +57,10 @@
 5. Sites to practice coding + ACM Challenges
 6. Interview prep
 7. Software industry tips and tricks
+8. Creating your own personal website resume
+
+## Simple Projects 
+
+1. Calculator
+2. Snake
+3. Photo Filter
